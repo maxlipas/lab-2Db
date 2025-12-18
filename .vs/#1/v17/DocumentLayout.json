@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\the best\\source\\repos\\#1\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-2Db\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DF03E7A-DED0-456B-AE17-7952B280F933}|#3\\#3.csproj|c:\\users\\the best\\source\\repos\\#1\\#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DF03E7A-DED0-456B-AE17-7952B280F933}|#3\\#3.csproj|c:\\users\\\u043F\u043A\\source\\repos\\lab-2db\\#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DF03E7A-DED0-456B-AE17-7952B280F933}|#3\\#3.csproj|solutionrelative:#3\\#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7AAF80-6BED-4720-BE12-B5B4C2F7C034}|#1\\#1.csproj|c:\\users\\the best\\source\\repos\\#1\\#1\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7AAF80-6BED-4720-BE12-B5B4C2F7C034}|#1\\#1.csproj|solutionrelative:#1\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5868F33-4D8C-4456-8289-FCC0AD0E573C}|#2\\#2.csproj|c:\\users\\the best\\source\\repos\\#1\\#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5868F33-4D8C-4456-8289-FCC0AD0E573C}|#2\\#2.csproj|solutionrelative:#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "#3.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\#1\\#3\\#3.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-2Db\\#3\\#3.cs",
               "RelativeDocumentMoniker": "#3\\#3.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\#1\\#3\\#3.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\lab-2Db\\#3\\#3.cs",
               "RelativeToolTip": "#3\\#3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T08:11:12.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "#2.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\#1\\#2\\#2.cs",
-              "RelativeDocumentMoniker": "#2\\#2.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\#1\\#2\\#2.cs",
-              "RelativeToolTip": "#2\\#2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T08:10:54.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "#1.cs",
-              "DocumentMoniker": "C:\\Users\\the best\\source\\repos\\#1\\#1\\#1.cs",
-              "RelativeDocumentMoniker": "#1\\#1.cs",
-              "ToolTip": "C:\\Users\\the best\\source\\repos\\#1\\#1\\#1.cs",
-              "RelativeToolTip": "#1\\#1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T08:10:33.799Z",
               "EditorCaption": ""
             }
           ]
